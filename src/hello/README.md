@@ -23,4 +23,4 @@ The program prints "Hello" messages from multiple threads. It illustrates:
 ## Compilation
 
 ```bash
-gcc -fopenmp hello_world.c -o hello_world
+gcc -fopenmp hello.c -o hello_world
