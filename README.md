@@ -14,3 +14,6 @@ These programs are designed to illustrate fundamental concepts of parallel progr
 
 Each program resides in its own folder under `src/` and includes a dedicated README with instructions for compilation and execution.
 
+## Author
+
+**Hadbi Aghiles** – This program is part of my OpenMP educational projects demonstrating the race condition problem.
