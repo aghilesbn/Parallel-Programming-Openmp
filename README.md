@@ -1,6 +1,6 @@
 # OpenMP Educational Programs
 
-This repository hosts a collection of OpenMP programs written in C, **developed by Hadbi Aghiles**.  
+This repository hosts a collection of OpenMP programs written in C. 
 These programs are designed to illustrate fundamental concepts of parallel programming and provide practical examples for learning and experimentation.
 
 ## Key Concepts Demonstrated
