@@ -1,21 +1,16 @@
-# OpenMP Programs
+# OpenMP Educational Programs
 
-This repository contains a collection of educational OpenMP programs written in C.
+This repository hosts a collection of OpenMP programs written in C, **developed by Hadbi Aghiles**.  
+These programs are designed to illustrate fundamental concepts of parallel programming and provide practical examples for learning and experimentation.
 
-The goal of this project is to learn and demonstrate basic parallel programming concepts such as:
+## Key Concepts Demonstrated
 
-- Parallel regions and threads
-- Work-sharing constructs (for, sections)
-- Synchronization (critical, atomic, barriers)
-- Reduction operations
+- Parallel regions and thread management
+- Work-sharing constructs (`for`, `sections`)
+- Synchronization mechanisms (`critical`, `atomic`, `barrier`)
+- Reduction operations and shared data handling
 
-Each program is placed in its own folder under `src/` and comes with a dedicated README file explaining how to compile and run it.
+## Repository Structure
 
-## Requirements
+Each program resides in its own folder under `src/` and includes a dedicated README with instructions for compilation and execution.
 
-- A C compiler with OpenMP support (gcc recommended)
-- OpenMP enabled in your compiler (`-fopenmp` flag for gcc)
-
-## Compile and Run
-
-See the README file inside each program folder for specific instructions.
